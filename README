@@ -1,7 +1,0 @@
-Final project:sound_data
-The folder called Conv2D is MFCC and using 10 fold ensemble CNN to train the model
-train.py data preprocessing
-tain.npy is MFCC transformation
-label.npy is outcome transformation
-
-
