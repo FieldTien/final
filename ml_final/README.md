@@ -10,9 +10,9 @@
 
 ### 如何執行我們的程式：
 1. 視您的環境情況決定是否需要安裝套件
-'比如:pip3 install librosa==0.6.0'
+`pip3 install librosa==0.6.0`
 2. 執行script
-`bash  hw5_train.sh <train.csv>  <train.csv>  <output>`
+`bash  hw5_train.sh <train.csv>  <sample_submission.csv>  <output>`
 3. Example
-`bash final_test.sh "train.csv" "train.csv" "bashtest.csv"`
+`bash final_test.sh "train.csv" "sample_submission.csv" "bashtest.csv"`
 
